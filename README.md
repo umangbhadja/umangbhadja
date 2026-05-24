@@ -70,6 +70,7 @@ Currently working at **Simprosys Infomedia**.
 
 </p>
 
+<--
 ---
 
 ## 🧠 Backend Areas I Enjoy Working On
@@ -86,7 +87,7 @@ Currently working at **Simprosys Infomedia**.
 * System Design
 
 ---
-
+-->
 ## 🌐 Connect With Me
 
 <p align="left">
