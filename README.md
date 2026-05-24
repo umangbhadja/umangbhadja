@@ -70,7 +70,7 @@ Currently working at **Simprosys Infomedia**.
 
 </p>
 
-<--
+<!--
 ---
 
 ## 🧠 Backend Areas I Enjoy Working On
