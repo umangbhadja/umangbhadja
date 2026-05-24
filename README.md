@@ -91,23 +91,29 @@ Currently working at **Simprosys Infomedia**.
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/umangbhadja" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
-
 <a href="https://in.linkedin.com/in/umang-bhadja-49827a204" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://x.com/ZeroBug24">
+  <img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="mailto:umangbhadja8070@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 <a href="https://stackoverflow.com/users/19680111/umang-bhadja" target="_blank">
   <img src="https://skillicons.dev/icons?i=stackoverflow" />
 </a>
 
+<a href="https://github.com/umangbhadja" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<!--
 <a href="https://linktr.ee/umangbhadja" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-
-<a href="mailto:umangbhadja8070@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+-->
 </p>
