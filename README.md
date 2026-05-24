@@ -8,11 +8,9 @@
 .......####...##...##..##..##..##..##...####...........#####...##..##..##..##..#####....####...##..##......
 ...........................................................................................................
 </pre>
-### Building scalable backend systems with Python, FastAPI, Redis, Docker & AWS
+### Software Engineer building scalable systems with Python, FastAPI, Redis, Docker & AWS
 
 Backend-focused software engineer from India 🇮🇳 with experience building scalable web applications, REST APIs, async systems, and cloud-native backend architectures.
-
-I specialize in backend engineering using **Django**, **FastAPI**, **PostgreSQL**, **MongoDB**, **Redis**, **Valkey**, **Celery**, **Elasticsearch**, **Typesense**, **Docker**, and **AWS**.
 
 Currently working at **Simprosys Infomedia**.
 
@@ -20,7 +18,7 @@ Currently working at **Simprosys Infomedia**.
 
 ## 🚀 About Me
 
-* 🔭 Backend Software Engineer focused on scalable systems and distributed architectures
+* 🔭 Focused on scalable applications, distributed systems, async architectures, and modern cloud infrastructure.
 * ⚡ Experienced with async task processing using Celery, Redis, and worker-based systems
 * 🔍 Passionate about high-performance search systems using Elasticsearch and Typesense
 * ☁️ Experienced with Dockerized deployments and AWS infrastructure
