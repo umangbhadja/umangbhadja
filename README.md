@@ -122,7 +122,9 @@ Currently working at **Simprosys Infomedia**.
         ><img src="https://skillicons.dev/icons?i=linkedin" /></a
     ><img width="12" />
     <a href="https://x.com/ZeroBug24" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a
-    ><img width="12" /> <a href="mailto:umangbhadja8070@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a
+    ><img width="12" /> <a href="discord.com" target="_blank"
+        ><img src="https://skillicons.dev/icons?i=discord" /></a
+    ><img width="12" /><a href="mailto:umangbhadja8070@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a
     ><img width="12" />
     <a href="https://stackoverflow.com/users/19680111/umang-bhadja" target="_blank"
         ><img src="https://skillicons.dev/icons?i=stackoverflow" /></a
